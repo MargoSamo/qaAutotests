@@ -2,7 +2,7 @@ class CommonPage {
 
     constructor() {
         this.loginUsernameInput = '[id="username"]';
-        this.loginSubmitButton = '[class="ui fluid primary button"]';
+        this.loginSubmitButton = '[class="ui"]';
         this.loginPasswordInput = '[id="password"]';
         }
 
